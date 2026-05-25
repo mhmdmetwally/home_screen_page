@@ -1,0 +1,349 @@
+{
+  "site": {
+    "pageTitle": "Al Noor Academy | One Page Overview",
+    "language": "en",
+    "direction": "ltr"
+  },
+  "hero": {
+    "name": "Al Noor Academy",
+    "tagline": "A calm, focused learning environment built to help students grow with confidence, consistency, and strong academic support.",
+    "logo": {
+      "src": "assets/al-noor-logo.svg",
+      "alt": "Al Noor Academy logo"
+    },
+    "highlights": [
+      "Small groups",
+      "Practical learning",
+      "Trusted teachers",
+      "Flexible schedules"
+    ],
+    "primaryAction": {
+      "label": "Contact on WhatsApp",
+      "href": "https://wa.me/201234567890",
+      "newTab": true
+    },
+    "secondaryAction": {
+      "label": "View Location",
+      "href": "#contact-section",
+      "newTab": false
+    },
+    "sidePanel": {
+      "label": "Why Families Choose This Academy",
+      "summary": "The academy combines clear teaching, regular follow-up, and a welcoming environment so students can improve step by step without pressure.",
+      "stats": [
+        {
+          "value": "8+",
+          "label": "Years of teaching"
+        },
+        {
+          "value": "600+",
+          "label": "Students supported"
+        },
+        {
+          "value": "92%",
+          "label": "Parent satisfaction"
+        },
+        {
+          "value": "5",
+          "label": "Weekly study tracks"
+        }
+      ]
+    }
+  },
+  "about": {
+    "heading": "About The Academy",
+    "intro": "",
+    "cards": [
+      {
+        "title": "Focused Teaching",
+        "text": "Each lesson is designed to make difficult topics easier to understand through direct explanation, guided practice, and revision."
+      },
+      {
+        "title": "Safe Environment",
+        "text": "Students learn in a respectful setting where discipline, comfort, and confidence are all part of the daily experience."
+      },
+      {
+        "title": "Parent Follow-Up",
+        "text": "Parents receive regular updates so they can track attendance, progress, and areas that need extra attention."
+      },
+      {
+        "title": "Clear Learning Path",
+        "text": "Programs are arranged in a structured way so students can move from basics to stronger performance with less confusion."
+      }
+    ],
+    "story": {
+      "title": "Short Brief",
+      "paragraphs": [
+        "Al Noor Academy is a learning center that supports students through organized courses, committed instructors, and close academic follow-up.",
+        "The academy is built for students who need a serious but comfortable place to study, revise, and improve their results over time."
+      ],
+      "bullets": [
+        "Well-planned sessions",
+        "Attendance and progress tracking",
+        "Support for different learning levels"
+      ]
+    },
+    "results": {
+      "heading": "Student Results",
+      "intro": "",
+      "items": [
+        {
+          "value": "18%",
+          "title": "Average Score Improvement",
+          "text": "Average score growth recorded after one full study term with regular attendance."
+        },
+        {
+          "value": "94%",
+          "title": "Course Completion Rate",
+          "text": "Most students complete their full course path because sessions stay organized and practical."
+        },
+        {
+          "value": "4.8/5",
+          "title": "Parent Feedback",
+          "text": "Strong parent satisfaction based on communication, discipline, and noticeable progress."
+        },
+        {
+          "value": "1:12",
+          "title": "Teacher to Student Ratio",
+          "text": "Smaller groups help teachers notice weak points earlier and support students more closely."
+        }
+      ]
+    }
+  },
+  "courses": {
+    "heading": "Courses And Advantages",
+    "intro": "",
+    "items": [
+      {
+        "title": "Foundations Program",
+        "description": "A structured course for students who need stronger basics before moving into more advanced study.",
+        "duration": "10 weeks",
+        "level": "Beginner",
+        "schedule": "2 sessions / week",
+        "advantages": [
+          "Stronger core understanding",
+          "Frequent revision",
+          "Homework feedback"
+        ]
+      },
+      {
+        "title": "Exam Preparation Track",
+        "description": "An intensive track focused on revision strategy, timed practice, and common exam patterns.",
+        "duration": "12 weeks",
+        "level": "Intermediate",
+        "schedule": "3 sessions / week",
+        "advantages": [
+          "Past paper practice",
+          "Time-management coaching",
+          "Performance review"
+        ]
+      },
+      {
+        "title": "Advanced Mastery Course",
+        "description": "For students aiming at top performance through deeper explanation, problem solving, and detailed feedback.",
+        "duration": "14 weeks",
+        "level": "Advanced",
+        "schedule": "3 sessions / week",
+        "advantages": [
+          "Advanced exercises",
+          "Small group format",
+          "Individual guidance"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "heading": "Prices And Subscriptions",
+    "intro": "",
+    "plans": [
+      {
+        "name": "Starter Plan",
+        "description": "A simple entry option for students who want consistent weekly support.",
+        "price": "1,200 EGP",
+        "billing": "per month",
+        "audience": "New students",
+        "duration": "8 sessions",
+        "features": [
+          "Weekly classes",
+          "Revision support",
+          "Attendance follow-up"
+        ]
+      },
+      {
+        "name": "Progress Plan",
+        "description": "A balanced plan for students who need stronger follow-up and extra revision time.",
+        "price": "1,850 EGP",
+        "billing": "per month",
+        "audience": "Regular learners",
+        "duration": "12 sessions",
+        "features": [
+          "Extra practice sheets",
+          "Monthly assessment",
+          "Parent update"
+        ]
+      },
+      {
+        "name": "Excellence Plan",
+        "description": "A more complete subscription with closer support and higher-intensity preparation.",
+        "price": "2,500 EGP",
+        "billing": "per month",
+        "audience": "Exam-focused students",
+        "duration": "16 sessions",
+        "features": [
+          "Priority revision",
+          "Mock exams",
+          "Direct support access"
+        ]
+      }
+    ]
+  },
+  "media": {
+    "heading": "Photos And Videos",
+    "intro": "",
+    "items": [
+      {
+        "type": "image",
+        "title": "Reception And Welcome Area",
+        "caption": "A first look at the academy’s calm and organized entrance space.",
+        "src": "assets/gallery-1.svg",
+        "alt": "Reception area"
+      },
+      {
+        "type": "image",
+        "title": "Classroom Setting",
+        "caption": "A sample classroom layout prepared for guided instruction and active discussion.",
+        "src": "assets/gallery-2.svg",
+        "alt": "Classroom"
+      },
+      {
+        "type": "image",
+        "title": "Student Activity Session",
+        "caption": "A flexible area where students can revise, collaborate, and receive support after class.",
+        "src": "assets/gallery-3.svg",
+        "alt": "Student activity session"
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "Student Opinions And Feedback",
+    "intro": "",
+    "items": [
+      {
+        "quote": "The explanations were clear, and the regular follow-up helped me stay committed throughout the term.",
+        "name": "Mariam H.",
+        "result": "Improved from 71% to 88%",
+        "avatar": "assets/student-1.svg"
+      },
+      {
+        "quote": "The academy created a serious study routine for my son, and we noticed progress in both confidence and scores.",
+        "name": "Parent Review",
+        "result": "Better attendance and stronger exam performance",
+        "avatar": "assets/student-2.svg"
+      },
+      {
+        "quote": "The teachers gave practical feedback after every assessment, which made it easier to fix mistakes quickly.",
+        "name": "Omar K.",
+        "result": "Completed exam prep track with distinction",
+        "avatar": "assets/student-3.svg"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contact And Location",
+    "intro": " ",
+    "details": [
+      {
+        "label": "WhatsApp",
+        "value": "+20 123 456 7890",
+        "href": "https://wa.me/201234567890",
+        "newTab": true
+      },
+      {
+        "label": "Phone Number",
+        "value": "+20 123 456 7890",
+        "href": "tel:+201234567890",
+        "newTab": false
+      },
+      {
+        "label": "Address",
+        "value": "12 Learning Street, Nasr City, Cairo",
+        "href": "https://maps.google.com/?q=12+Learning+Street+Nasr+City+Cairo",
+        "newTab": true
+      },
+      {
+        "label": "Working Hours",
+        "value": "Saturday to Thursday | 10:00 AM - 9:00 PM"
+      }
+    ],
+    "location": {
+      "title": "Al Noor Academy location map",
+      "embedUrl": "https://www.google.com/maps?q=Nasr%20City%20Cairo&z=14&output=embed"
+    },
+    "socialLinks": [
+      {
+        "label": "Facebook",
+        "handle": "facebook.com/alnooracademy",
+        "href": "https://facebook.com/",
+        "callToAction": "Follow",
+        "newTab": true
+      },
+      {
+        "label": "Instagram",
+        "handle": "@alnooracademy",
+        "href": "https://instagram.com/",
+        "callToAction": "See Photos",
+        "newTab": true
+      },
+      {
+        "label": "TikTok",
+        "handle": "@alnooracademy",
+        "href": "https://tiktok.com/",
+        "callToAction": "Watch Clips",
+        "newTab": true
+      },
+      {
+        "label": "YouTube",
+        "handle": "Al Noor Academy",
+        "href": "https://youtube.com/",
+        "callToAction": "View Videos",
+        "newTab": true
+      }
+    ]
+  },
+  "offers": {
+    "heading": "Offers And Discounts",
+    "intro": "",
+    "items": [
+      {
+        "title": "Early Registration Discount",
+        "description": "Students who confirm their seat before the new term begins receive a reduced registration fee.",
+        "highlights": [
+          "Save 10%",
+          "Limited seats",
+          "New term only"
+        ],
+        "expiry": "Valid until 30 June 2026"
+      },
+      {
+        "title": "Sibling Offer",
+        "description": "Families registering more than one student receive a reduced rate on the second subscription.",
+        "highlights": [
+          "Family discount",
+          "Second student offer",
+          "Simple registration"
+        ],
+        "expiry": "Available all year"
+      },
+      {
+        "title": "Course Bundle Package",
+        "description": "Students joining two linked courses together receive a better total price than separate registration.",
+        "highlights": [
+          "Better value",
+          "Longer support",
+          "Combined plan"
+        ],
+        "expiry": "Ask for current availability"
+      }
+    ]
+  }
+}
